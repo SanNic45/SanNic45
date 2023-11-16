@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roberto Soto</h1>
-- 🔭 I’m currently working on **GPF Corporation**
+
 
 - 🌱 I’m currently learning **Python, Ruby, Ngnix, Next.js**
-
+- 🔭 I’m currently working on **GPF Corporation**
 - 📫 How to reach me **rsoto53@outlook.com**
 
 <p align="left">
